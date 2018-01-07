@@ -16,3 +16,4 @@
 12. Ефанов Н.Н. Разработка Userspace-методов защиты ввода символов с клавиатуры . 59-я Научно-Практическая Конференция МФТИ. Электронные тезисы: http://conf59.mipt.ru/static/prog.html
 13. Ефанов Н.Н., Лебёдкин С.А. Высокоуровневые методы защиты ввода данных с клавиатуры. Конференция "Инжиниринг и Телекоммуникации — En&T 2016". Электронные тезисы: http://www.en-t.info/agendaru.shtml
 14. Ефанов Н. Н., Емельянов П.В. Построение формальной грамматики системных вызовов  // М. Информационное обеспечение математических моделей, 2017 – 8 С.
+15. Nikolay Efanov and Pavel Emelyanov. 2017. Constructing the formal grammar of system calls. In Proceedings of the 13th Central & Eastern European Software Engineering Conference in Russia (CEE-SECR '17). ACM, New York, NY, USA, Article 12, 5 pages. DOI: https://doi.org/10.1145/3166094.3166106
