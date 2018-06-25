@@ -19,3 +19,4 @@
 15. Nikolay Efanov and Pavel Emelyanov. 2017. Constructing the formal grammar of system calls. In Proceedings of the 13th Central & Eastern European Software Engineering Conference in Russia (CEE-SECR '17). ACM, New York, NY, USA, Article 12, 5 pages. DOI: https://doi.org/10.1145/3166094.3166106
 16. Ефанов Н.Н. Формальная грамматика системных вызовов. 60-я Научно-Практическая Конференция МФТИ, 2018.
 17. Ефанов Н.Н. Комбинаторные и групповые свойства деревьев процессов Linux. Сборник трудов XV международной конференции «Алгебра, теория чисел и дискретная геометрия: современные проблемы и приложения», Тула, 28–31 мая 2018 г., C.180-183.
+18. Ефанов Н.Н. Классификация правил проверки атрибутов в деревьях процессов Linux // "Естественные и технические науки", №6 2018 г., C.216-221.
