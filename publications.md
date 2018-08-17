@@ -1,7 +1,8 @@
 Идентификатор автора в Scopus: 57200398623
 
-http://www.mathnet.ru/rus/person140046
-https://scholar.google.com/citations?user=CzqvqtMAAAAJ
+mathnet: http://www.mathnet.ru/rus/person140046
+
+Гугл-Академия: https://scholar.google.com/citations?user=CzqvqtMAAAAJ
 
 #Список публикаций:
 1. Общие и локальные характеристики Солнца / Степанян Н.Н.  и др. //Научный: Отчёт по НИР «Сфера», 2007-2009, раздел 5.
