@@ -25,3 +25,4 @@ mathnet: http://www.mathnet.ru/rus/person140046
 18. Ефанов Н.Н. Классификация правил проверки атрибутов в деревьях процессов Linux // "Естественные и технические науки", №6 2018 г., C.216-221.
 19. N.N. Efanov, E.S. Shtypa. 2018. Optimization of syscall sequences using minimal spanning trees search // Труды IX Московской международной конференции по исследованию операций (ORM2018-GERMEYER100), Москва, С. 12-18. 
 20. Nikolay Efanov and Pavel Emelyanov. 2018. Linux Process Tree Reconstruction Using The Attributed Grammar-Based Tree Transformation Model. In Proceedings of the 14th Central and Eastern European Software Engineering Conference Russia (CEE-SECR '18). ACM, New York, NY, USA, Article 2, 7 pages. DOI: https://doi.org/10.1145/3290621.3290626
+21. Ефанов Н.Н. О некоторых комбинаторных свойствах деревьев процессов LINUX.  Чебышевский сборник. 2018;19(2):151-162.
