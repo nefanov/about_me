@@ -1,5 +1,7 @@
 Идентификатор автора в Scopus: 57200398623
 
+https://www.researchgate.net/profile/Nikolay_Efanov
+
 mathnet: http://www.mathnet.ru/rus/person140046
 
 Гугл-Академия: https://scholar.google.com/citations?user=CzqvqtMAAAAJ
