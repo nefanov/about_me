@@ -2,7 +2,9 @@
 
 Ефанов Николай Николаевич 
 
-Аспирант кафедры информатики и вычислительной математики МФТИ.
+Кандидат физико-математических наук.
+
+Senior Software Engineer, Huawei Russian Research Institute, Intermediate Radiophysics Department, System Engineering Lab.
 
 Контакты: e-mail: nefanov90@gmail.com, моб. тел.: (916)-091-11-08 
 Место жительства: г. Долгопрудный 
